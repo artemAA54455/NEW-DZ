@@ -1,0 +1,15 @@
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\bin\Debug\net6.0\NEW-DZ.exe
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\bin\Debug\net6.0\NEW-DZ.deps.json
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\bin\Debug\net6.0\NEW-DZ.runtimeconfig.json
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\bin\Debug\net6.0\NEW-DZ.dll
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\bin\Debug\net6.0\NEW-DZ.pdb
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\obj\Debug\net6.0\NEW-DZ.csproj.AssemblyReference.cache
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\obj\Debug\net6.0\NEW-DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\obj\Debug\net6.0\NEW-DZ.AssemblyInfoInputs.cache
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\obj\Debug\net6.0\NEW-DZ.AssemblyInfo.cs
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\obj\Debug\net6.0\NEW-DZ.csproj.CoreCompileInputs.cache
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\obj\Debug\net6.0\NEW-DZ.dll
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\obj\Debug\net6.0\refint\NEW-DZ.dll
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\obj\Debug\net6.0\NEW-DZ.pdb
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\obj\Debug\net6.0\NEW-DZ.genruntimeconfig.cache
+C:\Users\dns\Desktop\DZ-5\NEW-DZ\obj\Debug\net6.0\ref\NEW-DZ.dll
