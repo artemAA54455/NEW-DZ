@@ -48,4 +48,9 @@ string[] FilterArray(string[] oldArray)
     }
     return newArray;
 }
-
+string[] MyArray = InputArray();
+Console.WriteLine();
+PrintArray(MyArray);
+string[] filteredArray = FilterArray(MyArray);
+Console.Write(" -> ");
+PrintArray(filteredArray);
